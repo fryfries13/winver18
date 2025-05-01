@@ -28,8 +28,8 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/winver18"><img src="https://img.shields.io/badge/GitHub-winver18-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/1808002444"><img src="https://img.shields.io/badge/哔哩哔哩-爱玩电脑的winver-pink?logo=bilibili" /></a>
-<a href="https://www.youtube.com/@winver18"><img src="https://img.shields.io/badge/YouTube-爱玩电脑的winver-red?logo=youtube" /></a>
+<a href="https://space.bilibili.com/1808002444"><img src="https://img.shields.io/badge/哔哩哔哩-Ctrl_Flow-pink?logo=bilibili" /></a>
+<a href="https://www.youtube.com/@winver18"><img src="https://img.shields.io/badge/YouTube-Ctrl_Flow-red?logo=youtube" /></a>
 <a href="https://qm.qq.com/q/kCPaNE4fhC"><img src="https://img.shields.io/badge/QQ-370002394-green?logo=qq" /></a>
 <a href="https://t.me/TG_GXYgu"><img src="https://img.shields.io/badge/Telegram-TG__GXYgu-orange?logo=Telegram" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
