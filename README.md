@@ -33,7 +33,7 @@
 <a href="https://qm.qq.com/q/kCPaNE4fhC"><img src="https://img.shields.io/badge/QQ-370002394-green?logo=qq" /></a>
 <a href="https://t.me/FryFries13"><img src="https://img.shields.io/badge/Telegram-Fry薯条-orange?logo=Telegram" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?fryfries13&abbreviated=true&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=fryfries13&abbreviated=true&color=yellow" />
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
