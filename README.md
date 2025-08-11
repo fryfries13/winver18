@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Fry酥条.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Fry酥条&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -27,11 +27,11 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/Fry薯条"><img src="https://img.shields.io/badge/GitHub-Fry薯条-blue?logo=github" /></a>
+<a href="https://github.com/fryfries13"><img src="https://img.shields.io/badge/GitHub-Fry酥条.-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/1808002444"><img src="https://img.shields.io/badge/哔哩哔哩-Fry薯条-pink?logo=bilibili" /></a>
-<a href="https://www.youtube.com/@Fry薯条"><img src="https://img.shields.io/badge/YouTube-Fry薯条-red?logo=youtube" /></a>
+<a href="https://www.youtube.com/@FryFries13"><img src="https://img.shields.io/badge/YouTube-Fry薯条-red?logo=youtube" /></a>
 <a href="https://qm.qq.com/q/kCPaNE4fhC"><img src="https://img.shields.io/badge/QQ-370002394-green?logo=qq" /></a>
-<a href="https://t.me/TG_GXYgu"><img src="https://img.shields.io/badge/Telegram-Fry薯条-orange?logo=Telegram" /></a>
+<a href="https://t.me/FryFries13"><img src="https://img.shields.io/badge/Telegram-Fry薯条-orange?logo=Telegram" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?fryfries13&abbreviated=true&color=yellow" />
 </p>
